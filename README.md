@@ -1,7 +1,7 @@
 Augur Brand
 ============
 
-Augur is the a Decentralized Prediction Market running on Ethereum.
+Augur is a Decentralized Prediction Market running on Ethereum.
 
 
 ##Logo
